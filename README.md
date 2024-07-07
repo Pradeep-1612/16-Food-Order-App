@@ -3,6 +3,7 @@
 ### Concepts covered in this application:
 1. Handling HTTP requests.
 2. Custom react hooks implementation.
+3. Context management.
 ----
    
 ### 1. To install dependencies for the frontend application
