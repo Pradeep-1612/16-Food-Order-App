@@ -20,3 +20,7 @@
 > cd backend
 
 > npm run dev
+
+
+### Miscellaneous
+ - **Food-Order-App-Reference** folder is just another implementation of the same application features.
