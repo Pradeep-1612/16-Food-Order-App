@@ -16,7 +16,7 @@ export default function Header() {
       <header id="main-header">
         <div id="title">
           <img src={logo} />
-          <h1>FOOD APP</h1>
+          <h1>PRADEEP's FOOD APP</h1>
         </div>
         <button
           className="text-button"
